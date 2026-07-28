@@ -1,6 +1,6 @@
 # Tasfia Tasnim — Portfolio
 
-Personal portfolio site for Tasfia Tasnim, a full-stack developer working with React, FastAPI, and SQL. Live at: https://tasfiatasnim18.github.io/tasfia_tasnim_portfolio/
+Personal portfolio site for Tasfia Tasnim, a full-stack developer working with React, FastAPI, and SQL. Live at: https://tasfiatasnim18.github.io/Tasfia-Tasnim-Portfolio/
 
 ## About
 
